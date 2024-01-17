@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+}
+
+.input {
+  height: 35px;
+  width: 300px;
+  display: block;
+  margin: auto;
+  margin-bottom: 20px;
+  padding-left: 10px;
+}
+.btn {
+  background-color: blueviolet;
+  height: 35px;
+  width: 300px;
+  display: block;
+  margin: auto;
+  margin-bottom: 20px;
+  font-size: medium;
+  font-weight: 500;
+  color: black;
+}
